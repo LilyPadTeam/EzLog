@@ -22,7 +22,7 @@ logInfo("starting app...")
 > DO NOT open any issue about why you can't use it.
 ## Existing function:
 
-- `logInfo("ur message"`
+- `logInfo("ur message")`
 - `logError("msg")`
 - `logNotice("msg")`
 **More!**
