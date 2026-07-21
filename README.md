@@ -25,4 +25,7 @@ logInfo("starting app...")
 - `logInfo("ur message")`
 - `logError("msg")`
 - `logNotice("msg")`
+- `logDebug("msg")`
+- `logWrn("msg")`
+- `customPrefixLog("prefix", "msg")`
 **More!**
