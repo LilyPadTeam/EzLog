@@ -20,3 +20,9 @@ logInfo("starting app...")
 > This repository for people who know how to use kotlin
 > 
 > DO NOT open any issue about why you can't use it.
+## Existing function:
+
+- `logInfo("ur message"`
+- `logError("msg")`
+- `logNotice("msg")`
+**More!**
