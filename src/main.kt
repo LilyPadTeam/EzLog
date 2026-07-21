@@ -15,6 +15,6 @@ fun logWarn(msg: String) {
 fun logDebug(msg: String) {
     println("[DEBUG]: ${msg}")
 }
-fun custoPrefixLog(customPrefix: String, msg: String) {
+fun customPrefixLog(customPrefix: String, msg: String) {
     println("[${customPrefix}]: ${msg}")
 }
