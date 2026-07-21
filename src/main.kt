@@ -1,3 +1,4 @@
+package com.lpteam.ezLog
 
 fun logInfo(msg: String) {
     println("[INFO]: ${msg}")
