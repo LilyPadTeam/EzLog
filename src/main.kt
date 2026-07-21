@@ -1,10 +1,10 @@
-// have no time
+
 fun logInfo(msg: String) {
-    println(msg)
+    println("[INFO]: ${msg}")
 }
 fun logError(msg: String) {
-    println(msg)
+    println("[ERROR]: ${msg}")
 }
 fun logNotice(msg: String) {
-    println(msg)
+    println("[NOTICE]: ${msg}")
 }
