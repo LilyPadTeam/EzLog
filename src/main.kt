@@ -9,3 +9,12 @@ fun logError(msg: String) {
 fun logNotice(msg: String) {
     println("[NOTICE]: ${msg}")
 }
+fun logWarn(msg: String) {
+    println("[WARN]: ${msg}")
+}
+fun logDebug(msg: String) {
+    println("[DEBUG]: ${msg}")
+}
+fun custoPrefixLog(customPrefix: String, msg: String) {
+    println("[${customPrefix}]: ${msg}")
+}
